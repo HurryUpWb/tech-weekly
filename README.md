@@ -12,11 +12,28 @@
 
 [小马哥](https://mercyblitz.github.io/about/)，[Java 劝退师](https://www.douyu.com/mercyblitz)，[Apache Dubbo](https://dubbo.apache.org/) PPMC、[Spring Cloud Alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) 项目架构师。目前主要负责集团中间件开源项目、微服务技术实施、架构衍进、基础设施构建等。通过 SUN Java（SCJP、SCWCD、SCBCD）以及 Oracle OCA 等的认证。
 
-> [斗鱼直播](https://www.douyu.com/mercyblitz)
-> 
-> [B 站录播](http://space.bilibili.com/327910845/channel/detail?cid=52311)
+### 免费类目
 
+- [斗鱼直播](https://www.douyu.com/mercyblitz)
+- [往期录播（B 站）](http://space.bilibili.com/327910845/channel/detail?cid=52311)
+- [公开课]：即将上线
 
+### 收费类目
+
+- [「小马哥 Java 知识星球」](http://t.cn/RnxUYzd)
+
+- SegmentFault 直播
+  - [《Java 微服务实践 - Spring Boot / Spring Cloud》](http://t.cn/RoC0nNi)
+  - [《一入 Java 深似海》](http://t.cn/E6bTa9O)
+
+- 慕课视频
+  - [《Spring Boot 2.0深度实践之核心技术篇》](http://t.cn/ReChCU9)
+
+### 我的书籍
+
+- 《Spring Boot 编程思想（核心篇）》，订购链接：http://t.cn/ExjBU2M
+
+### [我的博客](http://t.cn/E6bTwbW)
 
 
 ## 沟通交流
@@ -27,11 +44,11 @@
 - Sentinel开源讨论群”群的钉钉群号： `21977771`
 
 
-
-
 ## 往期录播
 
-- [2019.03.15 第二十一期 Apache Dubbo 微服务系列之网关整合](https://www.bilibili.com/video/av46476226)
+- [2019.04.12 第二十三期 - 面试虐我千百遍，Java 并发真讨厌（续）](https://www.bilibili.com/video/av49124110)
+- [2019.03.29 第二十二期 - Apache Dubbo 微服务系列之 ALL IN ONE](https://www.bilibili.com/video/av47712354)
+- [2019.03.15 第二十一期 - Apache Dubbo 微服务系列之网关整合](https://www.bilibili.com/video/av46476226)
 - [2019.03.01 第二十期 - Apache Dubbo 微服务系列之分布式事务 Fescar](https://www.bilibili.com/video/av45098855/)
 - [2019.02.22 第十九期 - Apache Dubbo 微服务系列之Spring Cloud设计与实现](https://www.bilibili.com/video/av44423093)
 - [2019.01.25 第十八期 - Apache Dubbo 微服务系列之 Dubbo Spring Cloud 实现总结](https://www.bilibili.com/video/av41832154)
@@ -53,7 +70,6 @@
 - [2018-10-05 第三期 - 超越外部化配置 - Nacos Spring Stack](https://www.bilibili.com/video/av33216900)
 - [2018-09-28 第二期 - Spring Cloud 分布式配置新选择 - Alibaba Nacos Config](https://www.bilibili.com/video/av32723734)
 - [2018-09-21 第一期 - Spring Cloud 服务发现新选择 - Alibaba Nacos Discovery](https://www.bilibili.com/video/av32191103)
-
 
 
 
